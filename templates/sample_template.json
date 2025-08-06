@@ -1,0 +1,4 @@
+{
+  "invoice_number": "Invoice Number: (\\d+)",
+  "total_amount": "Total: \\$(\\d+\\.\\d{2})"
+}

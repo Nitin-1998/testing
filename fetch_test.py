@@ -1,0 +1,3 @@
+from app.email_fetcher import fetch_attachments_from_email
+
+fetch_attachments_from_email()
